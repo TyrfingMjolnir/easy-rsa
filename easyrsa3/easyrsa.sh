@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Easy-RSA 3 -- A Shell-based CA Utility
 #
